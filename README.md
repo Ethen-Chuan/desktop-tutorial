@@ -1,5 +1,49 @@
-# Welcome to GitHub Desktop!
+# GitHub Desktop 学习仓库
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+这是一个用于学习 GitHub Desktop 基础操作的练习仓库，不是正式软件产品。
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+仓库最初由 GitHub Desktop 教程创建，用来熟悉本地文件、Git 提交和 GitHub 远程仓库之间的关系。保留它可以记录学习过程，也可以继续用于测试不会影响正式项目的 Git 操作。
+
+## 可以在这里练习什么
+
+- 将远程仓库克隆到电脑；
+- 修改文件并查看变更；
+- 编写提交说明并创建 Commit；
+- 将本地提交 Push 到 GitHub；
+- 从 GitHub Pull 最新内容；
+- 创建、切换和合并分支；
+- 处理简单的合并冲突；
+- 使用 GitHub Desktop 打开仓库和查看历史记录。
+
+## 建议练习流程
+
+1. 在 GitHub Desktop 中克隆这个仓库。
+2. 新建一个测试分支。
+3. 修改 README 或增加一个练习文本文件。
+4. 在 **Changes** 页面检查具体差异。
+5. 写清楚本次修改的原因并提交。
+6. 将分支推送到 GitHub。
+7. 练习创建 Pull Request，或在本地合并回主分支。
+
+练习时尽量让一次提交只表达一个清楚的目的，例如：
+
+```text
+docs: add GitHub Desktop branch practice notes
+```
+
+## 仓库内容
+
+当前仓库只有这份 README，没有应用代码、构建脚本、依赖、数据库或可部署页面，因此无需安装和运行。
+
+## 注意事项
+
+- 不要把真实账号密码、Token、API Key 或隐私文件放入练习仓库；
+- 不熟悉 Git 时，不要在正式项目上试验强制推送或重写历史；
+- 提交前先阅读变更列表，确认没有误提交系统文件或无关内容；
+- 如果以后不再需要这个练习仓库，可以在 GitHub 设置中将其 Archive，而不必立即删除历史记录。
+
+## 项目状态
+
+状态：学习与练习用途。
+
+这个仓库不代表一个待发布产品，也没有功能路线图。它的目的只是提供一个低风险环境，用于熟悉 GitHub Desktop 和 Git 的基本工作流。
